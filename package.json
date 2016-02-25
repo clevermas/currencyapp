@@ -1,0 +1,33 @@
+{
+  "name": "currencyapp",
+  "version": "0.0.0",
+  "description": "simple Node.js application",
+  "main": "server/app.js",
+  "dependencies": {
+    "bluebird": "^3.3.1",
+    "express": "^4.13.4",
+    "mongoose": "^4.4.5"
+  },
+  "devDependencies": {
+    "babel-core": "^5.8.35",
+    "body-parser": "^1.15.0",
+    "http": "0.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clevermas/currencyapp.git"
+  },
+  "author": "Ivan Rogozhnikov <clevermas@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/clevermas/currencyapp/issues"
+  },
+  "homepage": "https://github.com/clevermas/currencyapp#readme",
+  "engines": {
+    "node": "^5.4.1",
+    "npm": "^3.3.12"
+  }
+}
