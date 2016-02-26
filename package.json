@@ -11,7 +11,7 @@
     "mongoose": "^4.4.5",
     "http": "0.0.0",
     "babel-core": "^5.8.35",
-    "body-parser": "^1.15.0",
+    "body-parser": "^1.15.0"
   },
   "devDependencies": {
     "should": "^8.2.2",
