@@ -10,7 +10,6 @@ import config from './';
 import mongoose from 'mongoose';
 import bodyParser from 'body-parser';
 import passport from 'passport';
-import expressSession from 'express-session';
 
 export default (app) => {
 	app.set('views', config.root + '/server/views');
