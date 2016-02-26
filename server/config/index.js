@@ -19,7 +19,12 @@ let all = {
                 safe: true
             }
         }
-    }
+    },
+    rateexchange: {
+        app_id: '243728e176cd44f1a739836ff5202663'
+    },
+    // passphrase
+    passphrase: 'testkey__'
 }
 
 export default all;

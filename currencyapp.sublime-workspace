@@ -4,6 +4,42 @@
 		"selected_items":
 		[
 			[
+				"pass",
+				"passphrase"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"res",
+				"response"
+			],
+			[
+				"update",
+				"updateReq"
+			],
+			[
+				"curenc",
+				"currency"
+			],
+			[
+				"cu",
+				"currencies"
+			],
+			[
+				"curre",
+				"currency"
+			],
+			[
+				"export",
+				"export:variable	ES6 Module Export Variable"
+			],
+			[
+				"str",
+				"strict"
+			],
+			[
 				"timeout",
 				"timeout	setTimeout function"
 			],
@@ -152,10 +188,6 @@
 				"appendStyles"
 			],
 			[
-				"update",
-				"updateLayoutTemplate"
-			],
-			[
 				"min-",
 				"min-width"
 			],
@@ -190,10 +222,6 @@
 			[
 				"lis",
 				"listNameObj"
-			],
-			[
-				"str",
-				"stringify"
 			],
 			[
 				"wat",
@@ -239,10 +267,18 @@
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 104.0,
-		"last_filter": "install",
+		"height": 219.0,
+		"last_filter": "insta",
 		"selected_items":
 		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
 			[
 				"install",
 				"Package Control: Install Package"
@@ -300,10 +336,6 @@
 				"Package Control: Install Package"
 			],
 			[
-				"instal",
-				"Package Control: Install Package"
-			],
-			[
 				"remove pa",
 				"Package Control: Remove Package"
 			],
@@ -348,7 +380,7 @@
 				"Set Syntax: AutoHotkey"
 			]
 		],
-		"width": 416.0
+		"width": 364.0
 	},
 	"console":
 	{
@@ -369,10 +401,40 @@
 	},
 	"expanded_folders":
 	[
-		"/C/wamp/www/currencyapp"
+		"/C/wamp/www/currencyapp",
+		"/C/wamp/www/currencyapp/server",
+		"/C/wamp/www/currencyapp/server/components/errors",
+		"/C/wamp/www/currencyapp/tests"
 	],
 	"file_history":
 	[
+		"/C/wamp/www/currencyapp/tests/test.js",
+		"/C/wamp/www/currencyapp/server/routes.js",
+		"/C/wamp/www/currencyapp/server/config/express.js",
+		"/C/wamp/www/currencyapp/server/config/index.js",
+		"/C/wamp/www/currencyapp/server/components/errors/index.js",
+		"/C/wamp/www/currencyapp/server/components/auth/index.js",
+		"/C/wamp/www/currencyapp/server/components/auth/auth.token.js",
+		"/C/wamp/www/currencyapp/server/api/user/index.js",
+		"/C/wamp/www/currencyapp/server/components/auth/auth.local.controller.js",
+		"/C/wamp/www/currencyapp/server/components/auth/auth.local.js",
+		"/C/wamp/www/currencyapp/server/api/log/index.js",
+		"/C/wamp/www/currencyapp/server/api/rate/rate.controller.js",
+		"/C/wamp/www/currencyapp/server/api/log/log.model.js",
+		"/C/wamp/www/currencyapp/server/api/log/log.controller.js",
+		"/C/wamp/www/currencyapp/server/api/currency/currency.controller.js",
+		"/C/wamp/www/currencyapp/server/api/rate/index.js",
+		"/C/wamp/www/currencyapp/server/api/log/currency.model.js",
+		"/C/wamp/www/currencyapp/server/api/currency/index.js",
+		"/C/wamp/www/currencyapp/server/api/rate/rate.model.js",
+		"/C/wamp/www/currencyapp/.gitignore",
+		"/C/wamp/www/currencyapp/server/api/currency/currency.model.js",
+		"/C/wamp/www/currencyapp/server/app.js",
+		"/C/wamp/www/currencyapp/server/index.js",
+		"/C/wamp/www/currencyapp/server/views/404.html",
+		"/C/wamp/www/currencyapp/server/api/currency/currency.model",
+		"/C/wamp/www/currencyapp/package.json",
+		"/C/wamp/www/mean-yo/package.json",
 		"/C/wamp/www/nodejs.test.2/client/app/builder/editBlock/editBlock.directive.js",
 		"/C/wamp/www/nodejs.test.2/client/app/builder/addNewBlock/addNewBlock.directive.js",
 		"/C/wamp/www/nodejs.test.2/client/app/builder/viewframe/viewframe.directive.js",
@@ -473,34 +535,7 @@
 		"/C/wamp/www/nodejs.test.2/client/app/builder/leftboard-layout-mode/leftboard-layout-mode.jade",
 		"/C/wamp/www/nodejs.test.2/client/app/builder/leftboard-layout-mode/leftboard-layout-mode.scss",
 		"/C/wamp/www/nodejs.test.2/.tmp/app/builder/LayoutApi/LayoutApi.service.js",
-		"/C/wamp/www/nodejs.test/app/static/js/app/grapes/api.js",
-		"/C/wamp/www/nodejs.test.2/.tmp/app/builder/EventAssigner/EventAssigner.service.js",
-		"/C/wamp/www/nodejs.test.2/.tmp/app/builder/viewframe/EventAssigner.js",
-		"/C/wamp/www/nodejs.test.2/client/index.html",
-		"/C/wamp/www/nodejs.test.2/node_modules/ast-types/def/babel.js",
-		"/C/wamp/www/nodejs.test.2/node_modules/gulp-load-plugins/index.js",
-		"/C/wamp/www/nodejs.test.2/.tmp/app/builder/viewframe/viewframe.directive.js",
-		"/C/wamp/www/nodejs.test.2/client/app/builder/builder.scss",
-		"/C/wamp/www/nodejs.test/app/static/sass/editor/layout-manager.sass",
-		"/C/wamp/www/nodejs.test.2/client/components/viewframe-style/viewframe.viewframe.scss",
-		"/C/wamp/www/nodejs.test.2/.tmp/app/builder/builder.controller.js",
-		"/C/wamp/www/nodejs.test.2/.tmp/app/builder/viewframe/viewframe.viewframe.scss",
-		"/C/wamp/www/nodejs.test/app/static/js/app/bootstrap.js",
-		"/C/wamp/www/nodejs.test/app/static/js/app/routes.js",
-		"/C/wamp/www/nodejs.test/app/static/js/app/main.js",
-		"/C/wamp/www/nodejs.test/app/static/js/app/app.js",
-		"/C/wamp/www/nodejs.test/app/static/js/main.js",
-		"/C/wamp/www/nodejs.test/app/static/js/app/grapes/workingboard/main.js",
-		"/C/wamp/www/nodejs.test/app/static/js/app/controllers/index.js",
-		"/C/wamp/www/nodejs.test/app/static/js/app/controllers/workingboard/workingboard.js",
-		"/C/wamp/www/nodejs.test/app/static/js/app/controllers/mainframe/mainframe.js",
-		"/C/wamp/www/nodejs.test/app/static/js/app/controllers/editor-ctrl.js",
-		"/C/wamp/www/nodejs.test/app/static/js/app/controllers/workingboard-ctrl.js",
-		"/C/wamp/www/nodejs.test/app/static/js/app/controllers/module.js",
-		"/C/wamp/www/nodejs.test.2/client/app/builder/viewframe/viewframe.jade",
-		"/C/wamp/www/nodejs.test.2/server/config/express.js",
-		"/C/wamp/www/nodejs.test.2/client/app/builder/leftboard/leftboard.scss",
-		"/C/wamp/www/nodejs.test.2/client/app/app.scss"
+		"/C/wamp/www/nodejs.test/app/static/js/app/grapes/api.js"
 	],
 	"find":
 	{
@@ -567,6 +602,9 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"currency",
+			"currencies",
+			"currency",
 			"email",
 			"username",
 			"grapes-style",
@@ -691,10 +729,7 @@
 			"LayoutApi",
 			"leftboa",
 			"LayoutApi",
-			"layoutModeEvents",
-			"$obj",
-			"Viewframe",
-			"jQueryOb"
+			"layoutModeEvents"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -702,6 +737,9 @@
 		"regex": false,
 		"replace_history":
 		[
+			"log",
+			"rates",
+			"rate",
 			"$dir.http",
 			"json",
 			"`${projectPath}",
@@ -832,7 +870,7 @@
 	"menu_visible": true,
 	"output.exec":
 	{
-		"height": 25.0
+		"height": 27.0
 	},
 	"output.find_results":
 	{

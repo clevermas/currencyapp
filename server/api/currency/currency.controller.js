@@ -68,6 +68,7 @@ export function getCurrencies() {
     }
 }
 
-export function updateReq(req, res) {
+// There`s no need in Express handling here
+export function updateReq() {
 	getCurrencies();
 }

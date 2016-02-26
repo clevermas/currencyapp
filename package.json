@@ -6,12 +6,18 @@
   "dependencies": {
     "bluebird": "^3.3.1",
     "express": "^4.13.4",
-    "mongoose": "^4.4.5"
+    "express-session": "^1.13.0",
+    "jsonwebtoken": "^5.7.0",
+    "mongoose": "^4.4.5",
+    "passport": "^0.3.2",
+    "passport-local": "^1.0.0"
   },
   "devDependencies": {
     "babel-core": "^5.8.35",
     "body-parser": "^1.15.0",
-    "http": "0.0.0"
+    "http": "0.0.0",
+    "should": "^8.2.2",
+    "supertest": "^1.2.0"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
