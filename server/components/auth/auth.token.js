@@ -1,8 +1,6 @@
 'use strict';
 
 import express from 'express';
-import passport from 'passport';
-import { Strategy as LocalStrategy } from 'passport-local';
 import jwt from 'jsonwebtoken';
 import config from '../../config/';
 
